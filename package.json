@@ -1,0 +1,16 @@
+{
+  "name": "messageonping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "author": "Severingcastle8"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^13.3.1"
+  }
+}
